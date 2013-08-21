@@ -1,0 +1,1 @@
+([:r, :u, :b, :e, :q, :u, :e].delete_if{|x| x != :b && x != :q})
